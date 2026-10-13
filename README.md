@@ -26,7 +26,7 @@ Learning applied AI and ML modeling has been genuinely rewarding, and it's opene
 
 ## Skills & Tools
 
-`Python` `scikit-learn` `Flask` `pandas` `ChromaDB` `Git/GitHub` `pytest` `VS Code` `HuggingFace``JSON` `HTML/SQL`
+`Python` `scikit-learn` `Flask` `pandas` `ChromaDB` `Git/GitHub` `pytest` `VS Code` `HuggingFace` `JSON` `HTML/SQL`
 
 ## Connect
 
