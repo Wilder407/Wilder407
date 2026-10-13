@@ -19,7 +19,7 @@ Learning applied AI and ML modeling has been genuinely rewarding, and it's opene
 |---|---|---|
 | [Provenance Guard](https://github.com/Wilder407/Multi-signal-detection-pipeline-AI-vs-human-content) | Flask backend for AI content attribution using asymmetric confidence thresholds | Flask, Python, JSON |
 | [CU Boulder Unofficial Guide (RAG)](https://github.com/Wilder407/RAG-assistant-for-CU-Boulder-questions.git) | Retrieval-augmented generation pipeline answering student questions from a custom knowledge base | ChromaDB, sentence-transformers, Groq |
-| [TakMeter](https://github.com/Wilder407/Fine-tuned-running-discourse-classifier) | Fine-tuned classification pipeline that produces a usable model | distibert, HuggingFace, Groq (Llama 3.3 70B Versatile) |
+| [TakeMeter](https://github.com/Wilder407/Fine-tuned-running-discourse-classifier) | Fine-tuned classification pipeline that produces a usable model | distibert, HuggingFace, Groq (Llama 3.3 70B Versatile) |
 | [FitFindr](https://github.com/Wilder407/ai201-project2-fitfindr) | Multi-tool AI shopping agent that recommends products conversationally | Groq (Llama 3.3 70B), Gradio, pytest |
 
 *(See pinned repos below for the full list.)*
