@@ -13,6 +13,14 @@ Learning applied AI and ML modeling has been genuinely rewarding, and it's opene
 - 📚 Curriculum: Completing BS in Applied CS and Break Through Tech's AI Program. Completed CodePath's Applied AI (AI201) program
 - 🌱 AIML: Python, scikit-learn, retrieval-augmented generation (RAG), model evaluation
 
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+
 ## Featured Projects
 
 | Project | Description | Stack |
